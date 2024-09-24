@@ -1,4 +1,4 @@
-# food-resto #Overview
+# food-resto # Overview
 
 
 Resto. is the responsive restaurant web page designed to showcase a variety of food items and provide a user-friendly interface for customers to explore the menu, learn about the restaurant, and get in touch. The page is built with HTML, CSS, and JavaScript, incorporating interactive elements and visual appeal to enhance the user experience.
